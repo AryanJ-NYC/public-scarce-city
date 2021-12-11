@@ -1319,8 +1319,8 @@
     "series": 3,
     "quantity": 100
   },
-  "PEPEPHONEHOME": {
-    "asset": "PEPEPHONEHOME",
+  "PEPHONEHOME": {
+    "asset": "PEPHONEHOME",
     "set": "fake-rares",
     "block_index": 0,
     "burned": 0,
@@ -1402,7 +1402,7 @@
     "block_index": 0,
     "burned": 0,
     "divisible": false,
-    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/11/btcathpepe.png",
+    "img_url": "https://fakeasf.club/assets/FAKEMEDIPEPE/FAKEMEDIPEPE.gif",
     "order": 22,
     "series": 3,
     "quantity": 156
@@ -1879,5 +1879,60 @@
     "order": 15,
     "series": 4,
     "quantity": 100
+  },
+  "PEPONACID": {
+    "asset": "PEPONACID",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/peponacid.jpg",
+    "order": 16,
+    "series": 4,
+    "quantity": 30
+  },
+  "FAKETUPAC": {
+    "asset": "FAKETUPAC",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/faketupac-optimised.gif",
+    "order": 17,
+    "series": 4,
+    "quantity": 69
+  },
+  "PEPEUNKNOWN": {
+    "asset": "PEPEUNKNOWN",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/pepeunknown.gif",
+    "order": 18,
+    "series": 4,
+    "quantity": 100
+  },
+  "STJOHNPEPE": {
+    "asset": "STJOHNPEPE",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/stjohn-2.gif",
+    "order": 19,
+    "series": 4,
+    "quantity": 121
+  },
+  "JIMMYHENDRIX": {
+    "asset": "JIMMYHENDRIX",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/jimi-5fps-gif-chop-optimised.gif",
+    "order": 20,
+    "series": 4,
+    "quantity": 80
   }
 }
