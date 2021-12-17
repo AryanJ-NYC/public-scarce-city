@@ -1934,5 +1934,60 @@
     "order": 20,
     "series": 4,
     "quantity": 80
+  },
+  "PEPEBILLION": {
+    "asset": "PEPEBILLION",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/pepebillion.56.jpg",
+    "order": 21,
+    "series": 4,
+    "quantity": 21
+  },
+  "PEPEPESCI": {
+    "asset": "PEPEPESCI",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/pepepesci.gif",
+    "order": 22,
+    "series": 4,
+    "quantity": 61
+  },
+  "NFTORIGINS": {
+    "asset": "NFTORIGINS",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/nftorigins-1.jpg",
+    "order": 23,
+    "series": 4,
+    "quantity": 100
+  },
+  "QUEENOFCARDS": {
+    "asset": "QUEENOFCARDS",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/queenofcards.gif",
+    "order": 24,
+    "series": 4,
+    "quantity": 100
+  },
+  "PEPEMAGPIE": {
+    "asset": "PEPEMAGPIE",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/pepemagpie.jpg",
+    "order": 25,
+    "series": 4,
+    "quantity": 100
   }
 }
