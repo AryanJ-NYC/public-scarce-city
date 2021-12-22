@@ -81,7 +81,7 @@
     "set": "fake-rares",
     "block_index": 0,
     "burned": 0,
-    "divisible": false,
+    "divisible": true,
     "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/twolivepepe.jpg",
     "order": 8,
     "series": 0,
