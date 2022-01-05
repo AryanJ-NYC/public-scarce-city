@@ -1581,7 +1581,7 @@
     "img_url": "https://fakeraredirectory.files.wordpress.com/2021/11/pepeisded-1.png",
     "order": 38,
     "series": 3,
-    "quantity": 2000
+    "quantity": 187
   },
   "FAKEPICKACHU": {
     "asset": "FAKEPICKACHU",
@@ -1989,5 +1989,104 @@
     "order": 25,
     "series": 4,
     "quantity": 100
+  },
+  "THEBURNCARD": {
+    "asset": "THEBURNCARD",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/burncard.gif",
+    "order": 26,
+    "series": 4,
+    "quantity": 100
+  },
+  "PEPDILLINGER": {
+    "asset": "PEPDILLINGER",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/pepedillinger.gif",
+    "order": 27,
+    "series": 4,
+    "quantity": 100
+  },
+  "FPEPESURF": {
+    "asset": "FPEPESURF",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/fpepesurf.gif",
+    "order": 28,
+    "series": 4,
+    "quantity": 121
+  },
+  "PEPECYMRAEG": {
+    "asset": "PEPECYMRAEG",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/pepecymraeg.jpg",
+    "order": 29,
+    "series": 4,
+    "quantity": 58
+  },
+  "FAKEANTHEM": {
+    "asset": "FAKEANTHEM",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2021/12/fakeanthem.gif",
+    "order": 30,
+    "series": 4,
+    "quantity": 333
+  },
+  "FPHOTOPENPEN": {
+    "asset": "FPHOTOPENPEN",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2022/01/fphotopenpen.gif",
+    "order": 31,
+    "series": 4,
+    "quantity": 333
+  },
+  "FAKEBBOYPEPE": {
+    "asset": "FAKEBBOYPEPE",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2022/01/fakebboypepe.gif",
+    "order": 32,
+    "series": 4,
+    "quantity": 1690
+  },
+  "THERELIC": {
+    "asset": "THERELIC",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2022/01/therelic.gif",
+    "order": 33,
+    "series": 4,
+    "quantity": 21
+  },
+  "SILKTOADPEPE": {
+    "asset": "SILKTOADPEPE",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2022/01/silktoadpepe.png",
+    "order": 34,
+    "series": 4,
+    "quantity": 210
   }
 }
