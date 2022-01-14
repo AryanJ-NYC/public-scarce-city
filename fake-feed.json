@@ -2101,7 +2101,7 @@
     "quantity": 40
   },
   "PEPEMPERNEL": {
-    "asset": "SILKTOADPEPE",
+    "asset": "PEPEMPERNEL",
     "set": "fake-rares",
     "block_index": 0,
     "burned": 0,
@@ -2110,5 +2110,38 @@
     "order": 36,
     "series": 4,
     "quantity": 42
+  },
+  "STARWARSFAKE": {
+    "asset": "STARWARSFAKE",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2022/01/starwarsfake1.gif",
+    "order": 37,
+    "series": 4,
+    "quantity": 33
+  },
+  "DANKBETTY": {
+    "asset": "DANKBETTY",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2022/01/dankbetty.jpg",
+    "order": 38,
+    "series": 4,
+    "quantity": 78
+  },
+  "FAKEVIBES": {
+    "asset": "FAKEVIBES",
+    "set": "fake-rares",
+    "block_index": 0,
+    "burned": 0,
+    "divisible": false,
+    "img_url": "https://fakeraredirectory.files.wordpress.com/2022/01/fakevibes.gif",
+    "order": 39,
+    "series": 4,
+    "quantity": 107
   }
 }
