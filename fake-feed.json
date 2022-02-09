@@ -514,7 +514,7 @@
     "img_url": "https://fakeraredirectory.com/wp-content/uploads/2022/01/ce5zddn.jpg",
     "order": 47,
     "series": 1,
-    "quantity": 100
+    "quantity": 33
   },
   "FAKECALLS": {
     "asset": "FAKECALLS",
@@ -2120,7 +2120,7 @@
     "img_url": "https://fakeraredirectory.com/wp-content/uploads/2022/01/silktoadpepe.png",
     "order": 193,
     "series": 4,
-    "quantity": 333
+    "quantity": 210
   },
   "MAYFAKEFIELD": {
     "asset": "MAYFAKEFIELD",
@@ -2134,11 +2134,13 @@
     "quantity": 40
   },
   "PEPEMPERNEL": {
+
     "asset": "PEPEMPERNEL",
     "set": "fake-rares",
     "block_index": 0,
     "burned": 0,
     "divisible": false,
+
     "img_url": "https://fakeraredirectory.com/wp-content/uploads/2022/01/pepemperneljones-cut3-smol-opt.gif",
     "order": 195,
     "series": 4,
@@ -2604,6 +2606,6 @@
     "img_url": "https://fakeraredirectory.com/wp-content/uploads/2022/02/PEPBULL.png",
     "order": 237,
     "series": 5,
-    "quantity": 50,
+    "quantity": 50
   }
 }
