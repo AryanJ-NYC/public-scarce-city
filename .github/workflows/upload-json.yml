@@ -19,7 +19,11 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
-      - name: Deploy Fake Feed JSON to S3 bucket
-        run: aws s3 cp fake-feed.json s3://public-scarce-city --acl public-read
       - name: Deploy PEPEISDED subasset JSON to S3 bucket
         run: aws s3 cp pepeisded-subasset.json s3://public-scarce-city --acl public-read
+      - name: Deploy Bitgirls feed JSON to S3 bucket
+        run: aws s3 cp bitgirls-feed.json s3://public-scarce-city --acl public-read
+      - name: Deploy Memorychain feed JSON to S3 bucket
+        run: aws s3 cp memorychain-feed.json s3://public-scarce-city --acl public-read
+      - name: Deploy Oasis Mining feedJSON to S3 bucket
+        run: aws s3 cp oasis-mining-feed.json s3://public-scarce-city --acl public-read
