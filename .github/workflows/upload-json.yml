@@ -25,5 +25,7 @@ jobs:
         run: aws s3 cp bitgirls-feed.json s3://public-scarce-city --acl public-read
       - name: Deploy Memorychain feed JSON to S3 bucket
         run: aws s3 cp memorychain-feed.json s3://public-scarce-city --acl public-read
-      - name: Deploy Oasis Mining feedJSON to S3 bucket
+      - name: Deploy Oasis Mining feed JSON to S3 bucket
         run: aws s3 cp oasis-mining-feed.json s3://public-scarce-city --acl public-read
+      - name: Deploy The Pepe Project feed JSON to S3 bucket
+        run: aws s3 cp the-pepe-project-feed.json s3://public-scarce-city --acl public-read
