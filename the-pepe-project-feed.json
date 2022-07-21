@@ -1,71 +1,88 @@
 {
-  "FIRSTMARKER": { "img_url": "https://i.imgur.com/M2VUhCS.png" },
-  "FIRSTQDROP": { "img_url": "https://i.imgur.com/lGuleKR.png" },
-  "GMONEYPEPE": { "img_url": "https://i.imgur.com//zwFvzH5.png" },
-  "GQPEPE": { "img_url": "https://i.imgur.com/lICBrJ2.png" },
-  "IDESOFPEPE": { "img_url": "https://i.imgur.com/NRgDLmd.png" },
-  "TOOMANYPEPES": { "img_url": "https://i.imgur.com/5i0W7QN.png" },
-  "PEPETHEBAKER": { "img_url": "https://i.imgur.com/Mvd4QjB.png" },
-  "TRUSTFLYNN": { "img_url": "https://i.imgur.com/rlfQep4.png" },
-  "HASHFORCE": { "img_url": "https://i.imgur.com/pUmgqDm.png" },
-  "MOAB": { "img_url": "https://i.imgur.com/wNACQLw.png" },
-  "ORANGEMAN": { "img_url": "https://i.imgur.com/f2gVlVy.png" },
-  "THEPEPESTING": { "img_url": "https://imgur.com/n6hB7WZ.jpeg" },
-  "HONKHONKHODL": { "img_url": "https://imgur.com/FofHfnW.png" },
+  "FIRSTMARKER": { "img_url": "https://i.imgur.com/M2VUhCS.png", "set": "the-pepe-project" },
+  "FIRSTQDROP": { "img_url": "https://i.imgur.com/lGuleKR.png", "set": "the-pepe-project" },
+  "GMONEYPEPE": { "img_url": "https://i.imgur.com//zwFvzH5.png", "set": "the-pepe-project" },
+  "GQPEPE": { "img_url": "https://i.imgur.com/lICBrJ2.png", "set": "the-pepe-project" },
+  "IDESOFPEPE": { "img_url": "https://i.imgur.com/NRgDLmd.png", "set": "the-pepe-project" },
+  "TOOMANYPEPES": { "img_url": "https://i.imgur.com/5i0W7QN.png", "set": "the-pepe-project" },
+  "PEPETHEBAKER": { "img_url": "https://i.imgur.com/Mvd4QjB.png", "set": "the-pepe-project" },
+  "TRUSTFLYNN": { "img_url": "https://i.imgur.com/rlfQep4.png", "set": "the-pepe-project" },
+  "HASHFORCE": { "img_url": "https://i.imgur.com/pUmgqDm.png", "set": "the-pepe-project" },
+  "MOAB": { "img_url": "https://i.imgur.com/wNACQLw.png", "set": "the-pepe-project" },
+  "ORANGEMAN": { "img_url": "https://i.imgur.com/f2gVlVy.png", "set": "the-pepe-project" },
+  "THEPEPESTING": { "img_url": "https://imgur.com/n6hB7WZ.jpeg", "set": "the-pepe-project" },
+  "HONKHONKHODL": { "img_url": "https://imgur.com/FofHfnW.png", "set": "the-pepe-project" },
   "ENDTHEFED": {
-    "img_url": "https://jmspdly7gkaqavas7s7z3s72crunnaxtoxvzvkceiuosih3oqbya.arweave.net/SyTxrx8ygQBUEvy_ncv6FGjWgvN165qoREUdJB9ugHA/ENDTHEFED.gif"
+    "img_url": "https://jmspdly7gkaqavas7s7z3s72crunnaxtoxvzvkceiuosih3oqbya.arweave.net/SyTxrx8ygQBUEvy_ncv6FGjWgvN165qoREUdJB9ugHA/ENDTHEFED.gif",
+    "set": "the-pepe-project"
   },
   "THEGENERAL": {
-    "img_url": "https://rvktwqb45avyytkp5z2fqpj7f2kytnm5r5bnzcq5mlyo5hvp4ysq.arweave.net/jVU7QDzoK4xNT-50WD0_LpWJtZ2PQtyKHWLw7p6v5iU/THEGENERAL%20400.PNG"
+    "img_url": "https://rvktwqb45avyytkp5z2fqpj7f2kytnm5r5bnzcq5mlyo5hvp4ysq.arweave.net/jVU7QDzoK4xNT-50WD0_LpWJtZ2PQtyKHWLw7p6v5iU/THEGENERAL%20400.PNG",
+    "set": "the-pepe-project"
   },
   "THESTORM": {
-    "img_url": "https://arweave.net/dr_NfEXkPPp9LZMH6TaCPBVJlTRBZQRpvT9T79UfoNc/v3ls2d_image.gif"
+    "img_url": "https://arweave.net/dr_NfEXkPPp9LZMH6TaCPBVJlTRBZQRpvT9T79UfoNc/v3ls2d_image.gif",
+    "set": "the-pepe-project"
   },
   "TOODAMNHIGH": {
-    "img_url": "https://arweave.net/6JPd7H2Glse2FKhCxGBpFNojSnwnoVkIeBJKi2FWsyE/vtjejz_image.png"
+    "img_url": "https://arweave.net/6JPd7H2Glse2FKhCxGBpFNojSnwnoVkIeBJKi2FWsyE/vtjejz_image.png",
+    "set": "the-pepe-project"
   },
-  "THANKQ": { "img_url": "https://i.imgur.com/evzilmt.png" },
-  "PEPEREVERE": { "img_url": "https://i.imgur.com/nOoaNSa.jpeg" },
-  "NCSWIC": { "img_url": "https://i.imgur.com/M6bClKJ.png" },
-  "PEPEISPROUD": { "img_url": "https://i.imgur.com/iz8fXCS.png" },
+  "THANKQ": { "img_url": "https://i.imgur.com/evzilmt.png", "set": "the-pepe-project" },
+  "PEPEREVERE": { "img_url": "https://i.imgur.com/nOoaNSa.jpeg", "set": "the-pepe-project" },
+  "NCSWIC": { "img_url": "https://i.imgur.com/M6bClKJ.png", "set": "the-pepe-project" },
+  "PEPEISPROUD": { "img_url": "https://i.imgur.com/iz8fXCS.png", "set": "the-pepe-project" },
   "TRUMPDANCING": {
-    "img_url": "https://arweave.net/Ebg6tTY5n7YO-ER4d5utntY60nMPTZbVeg27heokMOg/TRUMPDANCING.gif"
+    "img_url": "https://arweave.net/Ebg6tTY5n7YO-ER4d5utntY60nMPTZbVeg27heokMOg/TRUMPDANCING.gif",
+    "set": "the-pepe-project"
   },
-  "BOOMTIME": { "img_url": "https://i.imgur.com/qgcAIte.jpeg" },
+  "BOOMTIME": { "img_url": "https://i.imgur.com/qgcAIte.jpeg", "set": "the-pepe-project" },
   "SAVETHEQUEEN": {
-    "img_url": "https://zrvksyu65jppqiyqwgpduenksp2cxhfoappk4jstxtz3pdlhew5q.arweave.net/zGqpYp7qXvgjELGeOhGqk_QrnK4D3q4mU7zzt41nJbs/SAVETHEQUEEN%20400.png"
+    "img_url": "https://zrvksyu65jppqiyqwgpduenksp2cxhfoappk4jstxtz3pdlhew5q.arweave.net/zGqpYp7qXvgjELGeOhGqk_QrnK4D3q4mU7zzt41nJbs/SAVETHEQUEEN%20400.png",
+    "set": "the-pepe-project"
   },
   "TRUMPEPIECE": {
-    "img_url": "https://arweave.net/2WsYTtl4sUkA7knaPJgVg_a6QIOKa74Qx17sYWCVApk/aeiym3_image.gif"
+    "img_url": "https://arweave.net/2WsYTtl4sUkA7knaPJgVg_a6QIOKa74Qx17sYWCVApk/aeiym3_image.gif",
+    "set": "the-pepe-project"
   },
   "THREEONEFIVE": {
-    "img_url": "https://arweave.net/2FxzZ2QHeQ488eH1-mrAO1fJyx9gvH7GTgX1GlgJlnw/be7vuq_image.png"
+    "img_url": "https://arweave.net/2FxzZ2QHeQ488eH1-mrAO1fJyx9gvH7GTgX1GlgJlnw/be7vuq_image.png",
+    "set": "the-pepe-project"
   },
   "FAKEBOOBS": {
-    "img_url": "https://mv4oze4cojajcygkswan7xbwpfzc6krbbcgrvygjkjdkwvtp6q7a.arweave.net/ZXjsk4JyQJFgypWA39w2eXIvKiEIjRrgyVJGq1Zv9D4/FAKEBOOBS%20400.png"
+    "img_url": "https://mv4oze4cojajcygkswan7xbwpfzc6krbbcgrvygjkjdkwvtp6q7a.arweave.net/ZXjsk4JyQJFgypWA39w2eXIvKiEIjRrgyVJGq1Zv9D4/FAKEBOOBS%20400.png",
+    "set": "the-pepe-project"
   },
   "POTUSTRUMP": {
-    "img_url": "https://arweave.net/93qoD9Yhq2GTuqS9ztzrI8A47EBEltTTg0bCuGWkUig/dh0nlv_image.png"
+    "img_url": "https://arweave.net/93qoD9Yhq2GTuqS9ztzrI8A47EBEltTTg0bCuGWkUig/dh0nlv_image.png",
+    "set": "the-pepe-project"
   },
   "FIRSTBURN": {
-    "img_url": "https://arweave.net/KLecvHy0hLPCKqx_eU1wNBxZuv_NlgiW8GymkyDwgSU/9exucx_image.gif"
+    "img_url": "https://arweave.net/KLecvHy0hLPCKqx_eU1wNBxZuv_NlgiW8GymkyDwgSU/9exucx_image.gif",
+    "set": "the-pepe-project"
   },
   "FAKEBISH": {
-    "img_url": "https://aom3nzobdgsl7ns3mdp3mgtexcaphrqfhnisltcpgczwtnbsm2ya.arweave.net/A5m25cEZpL-2W2DfthpkuIDzxgU7USXMTzCzabQyZrA/FAKEBISH%20400.png"
+    "img_url": "https://aom3nzobdgsl7ns3mdp3mgtexcaphrqfhnisltcpgczwtnbsm2ya.arweave.net/A5m25cEZpL-2W2DfthpkuIDzxgU7USXMTzCzabQyZrA/FAKEBISH%20400.png",
+    "set": "the-pepe-project"
   },
   "BOEFAKE": {
-    "img_url": "https://arweave.net/Pr14VT0J2Vkof7KFd4ZsxqTRdP6refhBeBZKeZTykds/zlum1f_image.png"
+    "img_url": "https://arweave.net/Pr14VT0J2Vkof7KFd4ZsxqTRdP6refhBeBZKeZTykds/zlum1f_image.png",
+    "set": "the-pepe-project"
   },
   "FAKEFIAT": {
-    "img_url": "https://arweave.net/MArDItiN7z_qKEL6aWIGcEmuE9Vh8LtN1GBIZLFEGrY/1qkwr0_image.png"
+    "img_url": "https://arweave.net/MArDItiN7z_qKEL6aWIGcEmuE9Vh8LtN1GBIZLFEGrY/1qkwr0_image.png",
+    "set": "the-pepe-project"
   },
   "FAKEIMF": {
-    "img_url": "https://arweave.net/zW_5EeHUOOWGKgQvMn6GrfygcWhe3kdRrBYIsZ3yCs8/u5kgps_image.png"
+    "img_url": "https://arweave.net/zW_5EeHUOOWGKgQvMn6GrfygcWhe3kdRrBYIsZ3yCs8/u5kgps_image.png",
+    "set": "the-pepe-project"
   },
   "FAKEIBRD": {
-    "img_url": "https://arweave.net/mFVFogsjrSXLGRouXLTgy7gkcGPrftB5_gjYGiwsIsQ/ws43yb_image.png"
+    "img_url": "https://arweave.net/mFVFogsjrSXLGRouXLTgy7gkcGPrftB5_gjYGiwsIsQ/ws43yb_image.png",
+    "set": "the-pepe-project"
   },
   "FAKEBANKER": {
-    "img_url": "https://ktbafyhcwssjfyagika6kekgw7ruvepgtd5uqzsgrkuhf73yygfa.arweave.net/VMIC4OK0pJLgBkKB5RFGt-NKkeaY-0hmRoqocv94wYo/FAKEBANKER.gif"
+    "img_url": "https://ktbafyhcwssjfyagika6kekgw7ruvepgtd5uqzsgrkuhf73yygfa.arweave.net/VMIC4OK0pJLgBkKB5RFGt-NKkeaY-0hmRoqocv94wYo/FAKEBANKER.gif",
+    "set": "the-pepe-project"
   }
 }
